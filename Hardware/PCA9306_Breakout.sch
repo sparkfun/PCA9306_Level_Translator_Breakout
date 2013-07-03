@@ -6389,7 +6389,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="R1" gate="G$1" pin="2"/>
 <pinref part="R2" gate="G$1" pin="2"/>
 <pinref part="JP1" gate="G$1" pin="4"/>
-<label x="73.914" y="96.774" size="1.016" layer="95"/>
+<label x="73.914" y="96.774" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="SCL1" class="0">
@@ -6401,7 +6401,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="U$1" gate="G$1" pin="SCL1"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 <pinref part="JP1" gate="G$1" pin="3"/>
-<label x="73.66" y="93.98" size="1.016" layer="95"/>
+<label x="73.66" y="93.98" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="SDA1" class="0">
@@ -6413,7 +6413,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="U$1" gate="G$1" pin="SDA1"/>
 <pinref part="R1" gate="G$1" pin="1"/>
 <pinref part="JP1" gate="G$1" pin="2"/>
-<label x="73.66" y="91.44" size="1.016" layer="95"/>
+<label x="73.66" y="91.44" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -6430,7 +6430,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
-<label x="73.66" y="88.9" size="1.016" layer="95"/>
+<label x="73.66" y="88.9" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="VREF2" class="0">
@@ -6457,7 +6457,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="U$1" gate="G$1" pin="SCL2"/>
 <pinref part="R4" gate="G$1" pin="1"/>
 <pinref part="JP2" gate="G$1" pin="3"/>
-<label x="165.862" y="94.234" size="1.016" layer="95"/>
+<label x="165.862" y="94.234" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="SDA2" class="0">
@@ -6470,7 +6470,7 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="U$1" gate="G$1" pin="SDA2"/>
 <pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="JP2" gate="G$1" pin="2"/>
-<label x="166.37" y="91.948" size="1.016" layer="95"/>
+<label x="166.37" y="91.948" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="VREF_2" class="0">
@@ -6489,14 +6489,14 @@ Standard 8.5x11 US Letter frame</description>
 <pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 <pinref part="JP2" gate="G$1" pin="4"/>
-<label x="165.1" y="96.52" size="1.016" layer="95"/>
+<label x="163.576" y="96.52" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="NC" class="0">
 <segment>
 <pinref part="JP2" gate="G$1" pin="1"/>
 <wire x1="170.18" y1="88.9" x2="167.64" y2="88.9" width="0.1524" layer="91"/>
-<label x="167.894" y="89.408" size="1.016" layer="95"/>
+<label x="167.894" y="89.408" size="1.27" layer="95"/>
 </segment>
 </net>
 </nets>
