@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -24,8 +24,8 @@
 <layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="31" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="30" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
@@ -3532,7 +3532,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="NAME" x="15.9512" y="-0.0762" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="20.955" y="0" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="15.24" y="1.524" smashed="yes" rot="MR0"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="4.826" y="1.524" smashed="yes" rot="MR0"/>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-4.9415875" y="-10.16" smashed="yes">
 <attribute name="DESIGNER" value="" x="-4.9415875" y="-10.16" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="-4.9415875" y="-10.16" size="1.778" layer="27" display="off"/>
@@ -3608,7 +3608,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="C1" pad="2"/>
 <contactref element="JP1" pad="1"/>
 <via x="8.509" y="8.001" extent="1-16" drill="0.381"/>
-<via x="5.08" y="2.54" extent="1-16" drill="0.381"/>
+<via x="6.604" y="3.048" extent="1-16" drill="0.381"/>
 <contactref element="JP2" pad="1"/>
 <via x="9.271" y="11.811" extent="1-16" drill="0.381"/>
 <via x="16.129" y="10.16" extent="1-16" drill="0.381"/>
