@@ -18985,7 +18985,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="166.37" y="11.684" size="2.54" layer="94" font="vector">T. Klopfenstein</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v15</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v20</text>
 <wire x1="121.92" y1="185.42" x2="121.92" y2="0" width="0.2032" layer="97" style="shortdash"/>
 <text x="7.62" y="175.26" size="2.54" layer="94" font="vector">Logic Level Translator PCA9306</text>
 <text x="127" y="177.8" size="2.54" layer="94" font="vector">Headers</text>
