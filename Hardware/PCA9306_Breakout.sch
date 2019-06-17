@@ -17057,7 +17057,7 @@ Physical Characteristics
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="IC-14450" constant="no"/>
 </technology>
 </technologies>
 </device>

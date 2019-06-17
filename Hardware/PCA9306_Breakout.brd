@@ -4875,7 +4875,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </autorouter>
 <elements>
 <element name="U1" library="SparkFun-IC-Comms" package="VSSOP_8PIN" value="PCA9306" x="10.16" y="6.35" smashed="yes">
-<attribute name="PROD_ID" value="" x="10.16" y="6.35" size="1.778" layer="27" display="off"/>
+<attribute name="PROD_ID" value="IC-14450" x="10.16" y="6.35" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R1" library="SparkFun-Resistors" package="0603" value="2.2k" x="7.62" y="3.064" smashed="yes" rot="R270">
 <attribute name="NAME" x="8.382" y="3.953" size="0.4064" layer="25" font="vector" rot="R270"/>
