@@ -19021,7 +19021,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="35.56" y="38.1" size="2.54" layer="97" font="vector">3.3V</text>
 <text x="68.58" y="38.1" size="2.54" layer="97" font="vector">5V</text>
 <text x="33.02" y="137.16" size="1.778" layer="97" font="vector">VCC Range: 1.2 - 5.5V</text>
-<text x="83.82" y="152.4" size="1.27" layer="97" font="vector">To enable enable, cut trace
+<text x="83.82" y="152.4" size="1.27" layer="97" font="vector">To enable, enable: cut trace
 and fill in lower jumper.</text>
 <wire x1="83.82" y1="139.7" x2="93.98" y2="139.7" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="93.98" y1="139.7" x2="93.98" y2="149.86" width="0.1524" layer="97" style="dashdot"/>
