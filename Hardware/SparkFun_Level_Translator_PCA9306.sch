@@ -19021,16 +19021,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="35.56" y="38.1" size="2.54" layer="97" font="vector">3.3V</text>
 <text x="68.58" y="38.1" size="2.54" layer="97" font="vector">5V</text>
 <text x="33.02" y="137.16" size="1.778" layer="97" font="vector">VCC Range: 1.2 - 5.5V</text>
-<text x="83.82" y="152.4" size="1.27" layer="97" font="vector">To enable, enable: cut trace
+<text x="83.82" y="160.02" size="1.27" layer="97" font="vector">To enable, enable: cut trace
 and fill in lower jumper.</text>
 <wire x1="83.82" y1="139.7" x2="93.98" y2="139.7" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="93.98" y1="139.7" x2="93.98" y2="149.86" width="0.1524" layer="97" style="dashdot"/>
-<wire x1="81.28" y1="157.48" x2="81.28" y2="149.86" width="0.1524" layer="97" style="dashdot"/>
+<wire x1="81.28" y1="165.1" x2="81.28" y2="149.86" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="81.28" y1="149.86" x2="116.84" y2="149.86" width="0.1524" layer="97" style="dashdot"/>
-<wire x1="116.84" y1="149.86" x2="116.84" y2="157.48" width="0.1524" layer="97" style="dashdot"/>
-<wire x1="116.84" y1="157.48" x2="81.28" y2="157.48" width="0.1524" layer="97" style="dashdot"/>
+<wire x1="116.84" y1="149.86" x2="116.84" y2="165.1" width="0.1524" layer="97" style="dashdot"/>
+<wire x1="116.84" y1="165.1" x2="81.28" y2="165.1" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="83.82" y1="139.7" x2="84.836" y2="140.716" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="83.82" y1="139.7" x2="84.836" y2="138.684" width="0.1524" layer="97" style="dashdot"/>
+<text x="83.82" y="152.4" size="1.27" layer="97" font="vector">Keep VREF attached to power, 
+ENABLE should be pulled LOW
+to disable communication.</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
