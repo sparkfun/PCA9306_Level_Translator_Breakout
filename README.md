@@ -1,7 +1,9 @@
 PCA9306 Level Translator Breakout
 =================================
-[![PCA9306 Level Translator Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/4/0/3/10402-01a_i_ma.jpg)  
-*PCA9306 Level Translator Breakout(BOB-10403)*](https://www.sparkfun.com/products/10403)
+
+[![PCA9306 Level Translator Breakout](https://cdn.sparkfun.com/r/300-300/assets/parts/1/4/0/1/0/15439-SparkFun_Level_Translator_Breakout_-_PCA9306-01.jpg)](https://www.sparkfun.com/products/15439)
+
+[*PCA9306 Level Translator Breakout(BOB-15439)*](https://www.sparkfun.com/products/15439)
 
 This is a breakout board for the PCA9306 dual bidirectional voltage-level translator. 
 
@@ -9,6 +11,10 @@ Repository Contents
 -------------------
 * **/Hardware** - Eagle design files for the board (.brd, .sch)
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/pca9306-logic-level-translator-hookup-guide-v2)** - Basic hookup guide for the PCA9306 logic level translator.
+* **[Logic Levels](https://learn.sparkfun.com/tutorials/logic-levels)**
 
 License Information
 -------------------
