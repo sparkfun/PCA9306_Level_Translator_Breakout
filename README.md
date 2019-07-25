@@ -15,6 +15,7 @@ Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/pca9306-logic-level-translator-hookup-guide-v2)** - Basic hookup guide for the PCA9306 logic level translator.
 * **[Logic Levels](https://learn.sparkfun.com/tutorials/logic-levels)**
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 
 License Information
 -------------------
